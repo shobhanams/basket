@@ -9,7 +9,7 @@
 
 	<properties>
 		<encoding>UTF-8</encoding>
-		<org.springframework.version>4.2.6.RELEASE</org.springframework.version>
+		<org.springframework.version>5.3.18</org.springframework.version>
 		<junitVersion>4.10</junitVersion>
 	</properties>
 
